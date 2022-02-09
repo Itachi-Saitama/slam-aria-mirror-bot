@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "animexcartoon",
+  "private_key_id": "48b86c325cdeb84e2527437695b2ddc4a89aac62",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCmg9gNT2oISFqP\nJs/hp3RRVAPBAXnppeVRmGZciBvDirnyKwNsMmvpD8yTkfoNFake2//E2BaOYtOi\nKdrGkQsCir6k6+YP15DBlC5KlPkL+Yv5KV4Rc4WCge3nHWUOSZhDhQpy95IhHHwJ\nXB+4Yy/RqC/srfCdWSf9z//t08wkqSNcCar8SvK4+kOTObDmm/HOSoqzgue4oCS8\nuEjMH03hndkRXTMWFFdCkZ1T8dKTKoopRLyPgqqy7o2B0NzkXpGC3A0FDT6l6d/F\n7gCJfv5Xa4rsjAxuKE5KrPUn5NuPZd8Z+8ZXOtiFIGWT3xUQz2LhpGt1TnXkW5Ve\nwSGDxUNVAgMBAAECggEAJZotXmgaEi/An4YMuLD3b+wwgtPCA5TOcbwgFXI5DtHT\nhs/W0IacXr+OG58B4BWNoOXeXsXLZjEECKE6AdA8M8FAJv8Mb3RnAIflYjs8+ErM\npKIGV5uGQT/1CNVW/kB5TXoML4UfrzF/AyAWG63uXQKFfAWVifrZsJPZgAvtlDNu\ne3XMoIWYDbukznxmJvdzHsazrRhF+gpnm+ZgMA8VwO8fqYqyLU3afpr1wcyXtNzK\nsERBLl/MEtLIRIdEkINTrhbaxRqtMrij6BD1Q9RbgY6zyMgqoL6/dT4GKDpGU8yW\nVCVErepd8RkjzgTUoFFZ0I99Xd5NDjOSAXhJJPFEawKBgQDUOcB+uoGjZmwulp92\nELWI4y00bh/P4RDWX42JD58HLqXQGFlcmNZ0U7lEdDKyTF/t/qArPhM0+VSXF9ji\nrwOtAPkOYFxDfVX+rzUQXYp6o/z7IQBXq96pdR2Z3IiSDKqgC/qF9cNwyc2JwLGC\nRolgL5ECeFCrm94Anm2WoPq3/wKBgQDI3GoxajL0kneeuAe0qrbQLtAchoyQRenm\ns3vSl5dhd50DDdFyAX3+8pdEKflyH0qw+ZQQ/dXJUJ+BRG6AOAnA6OdUi5oHvF+g\n+HiD35MAIEQ8jKAi7kCcYmZPe/XHaXpeTtXulaLTSmJnC06rnmFoeB9mF+L9CPzj\nz4AMSZOkqwKBgQCe4b2jIq37TqqfFlS7ZzcBDFLDdc6LKswYMeEcQ32jOuEYMaJ1\nGFc1L5j8DqIFqfgHjSEMPqTSe/dARrIwwyXVV20dvjZUsHi4+yKW5fDOcAbtW3+O\nIzXHV86Zaek0rhbvSwh7UcrHnc0q3AAIsBYY1IOTfc+nKkHB5NnWcx5AsQKBgFMe\nYxNvzwZGVhnoLcglnOEpfhVP2Hsbc190hpjvAkXjKaZJ4ZI769fEq7QZapA/QrlZ\njlw5rm5QXrEvkEqe5epedtwVqPfqi+gg6j4oFrzGnXYw+1N5JGOSlKPvuBV9IJZG\nKWFBqs+kyHO7yiJauBRzIQsud1AemAftph9vkxlhAoGBAMdVCk9NBFypjmJ2+1NK\nUtIzoHR1D/2NpBHD8HhEZsWuN5VnDvrAqxY+Vm9cOi7J5XxlToD4xOb62kIuwCfm\nom3zumz8SFpAxIPm1Zw3K8vy8eGOLc9RGqVMu4IL13D0fTezHw3k8CpIxXUftaRM\n+xJxqRkN4nZKXLRWWo8i4bRC\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-i68epi-r9w6ong7hi-avw32pkp@animexcartoon.iam.gserviceaccount.com",
+  "client_id": "104244676189513339598",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-i68epi-r9w6ong7hi-avw32pkp%40animexcartoon.iam.gserviceaccount.com"
+}
